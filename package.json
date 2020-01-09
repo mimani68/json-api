@@ -1,0 +1,24 @@
+{
+  "name": "jsonapi-simple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mahdi imani",
+  "license": "ISC",
+  "dependencies": {
+    "jsonapi-serializer": "^3.6.5",
+    "koa": "^2.11.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimani68/json-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mimani68/json-api/issues"
+  },
+  "homepage": "https://github.com/mimani68/json-api#readme",
+  "description": ""
+}
